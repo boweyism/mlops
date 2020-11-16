@@ -1,0 +1,3 @@
+outs:
+- md5: 210cafeea600eb0d765239cd5fbdd502.dir
+  path: mlruns
